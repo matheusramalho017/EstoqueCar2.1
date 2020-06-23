@@ -1,0 +1,54 @@
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\bin\Debug\EstoqueCar.exe.config
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\bin\Debug\EstoqueCar.exe
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\bin\Debug\EstoqueCar.pdb
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.csprojAssemblyReference.cache
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.cadastro_produto.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.login.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.novo_usuario.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.Properties.Resources.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.recup_senha.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.csproj.GenerateResource.cache
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.exe
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.pdb
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\bin\Debug\ControlePeças.mdf
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\bin\Debug\ControlePeças_log.ldf
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\bin\Debug\EstoqueCar.exe.config
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\bin\Debug\EstoqueCar.exe
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\bin\Debug\EstoqueCar.pdb
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.csprojAssemblyReference.cache
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.cadastro_produto.resources
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.consulta.resources
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.entrada_saida.resources
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.login.resources
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.novo_usuario.resources
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.Properties.Resources.resources
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.recup_senha.resources
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.csproj.GenerateResource.cache
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.csproj.CoreCompileInputs.cache
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.exe
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.pdb
+C:\Users\55159\Documents\ADS 2°Semestre\Matérias\C# - LP para BD\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.Menu.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.consulta.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.Menu.resources
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.csproj.CoreCompileInputs.cache
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\bin\Debug\EstoqueCar.exe.config
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\bin\Debug\EstoqueCar.exe
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\bin\Debug\EstoqueCar.pdb
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.csprojAssemblyReference.cache
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.cadastro_produto.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.consulta.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.entrada_saida.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.login.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.Menu.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.novo_usuario.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.Properties.Resources.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.recup_senha.resources
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.csproj.GenerateResource.cache
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.csproj.CoreCompileInputs.cache
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.exe
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\obj\Debug\EstoqueCar.pdb
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\bin\Debug\ControleTotal.mdf
+C:\Users\kyz\Desktop\EstoqueCar]\EstoqueCar\bin\Debug\ControleTotal_log.ldf
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\bin\Debug\ControleTotal.mdf
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\bin\Debug\ControleTotal_log.ldf
+C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\obj\Debug\EstoqueCar.ControleDados.resources

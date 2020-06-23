@@ -143,7 +143,7 @@ namespace EstoqueCar
         private void button2_Click(object sender, EventArgs e)
         {
 
-            SqlConnection conexao = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\ControleTotal.mdf;Integrated Security=True;Connect Timeout=30");
+            SqlConnection conexao = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\ControleTotal.mdf;Integrated Security=True;Connect Timeout=300");
 
             string sql = "INSERT INTO CadastroProduto(id, nome, modelo, marca, categoria, numeroItem, codigoItem) VALUES (@id, @nome, @modelo, @marca, @categoria, @numeroItem, @codigoItem)";
             Random numeroID = new Random();

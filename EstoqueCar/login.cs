@@ -88,7 +88,7 @@ namespace EstoqueCar
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string conecta = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\ControleTotal.mdf;Integrated Security=True;Connect Timeout=30";
+            string conecta = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\ControleTotal.mdf;Integrated Security=True;Connect Timeout=30";
             SqlConnection objconectar = new SqlConnection(conecta);
             objconectar.Open();
 

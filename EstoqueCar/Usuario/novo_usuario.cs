@@ -88,7 +88,7 @@ namespace EstoqueCar
 
         private void botaoCadastrar_Click(object sender, EventArgs e)
         {
-            SqlConnection conexao = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\ControleTotal.mdf;Integrated Security=True;Connect Timeout=30");
+            SqlConnection conexao = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\kyz\Desktop\EstoqueCar\EstoqueCar\ControleTotal.mdf;Integrated Security=True;Connect Timeout=30");
 
             string sql = "INSERT INTO CadastroUsuario(id, usuario, email, dataNasc, senha) VALUES (@id, @usuario, @email, @dataNasc, @senha)";
             Random numeroID = new Random();
